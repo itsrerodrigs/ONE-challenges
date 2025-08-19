@@ -1,6 +1,7 @@
 # 🚀 Oracle ONE - Challenges em Java
 
-Este repositório reúne os **challenges** desenvolvidos durante a formação **Oracle Next Education (ONE) + Alura**, com foco em **Java**.  
+Este repositório reúne os **challenges** desenvolvidos durante a formação **Oracle Next Education (ONE) + Alura**, com foco em **Java**.
+
 Cada desafio foi construído como parte do processo de aprendizado e prática de conceitos de **programação orientada a objetos, consumo de APIs, estruturas de dados e boas práticas de desenvolvimento**.  
 
 ---
@@ -57,4 +58,4 @@ Consolidar os conhecimentos adquiridos na formação **Oracle ONE + Alura**, apl
 ## 📌 Como executar os projetos
 1. Clone este repositório:  
    ```bash
-   git clone [https://github.com/seu-usuario/seu-repositorio.git](https://github.com/itsrerodrigs/ONE-challenges/)
+   git clone https://github.com/itsrerodrigs/ONE-challenges/
